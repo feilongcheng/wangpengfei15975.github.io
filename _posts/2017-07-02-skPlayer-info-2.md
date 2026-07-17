@@ -16,7 +16,7 @@ comments: true
 * 提供大量API支持
 
 ## Demo、下载、使用、文档
-[移步Doc](http://www.chengfeilong.com/skPlayer/)
+[移步Doc](https://www.chengfeilong.com/skPlayer/)
 
 ## 界面
 ![demo](http://o9vplcp9o.bkt.clouddn.com/demo_red.jpg)
@@ -39,8 +39,8 @@ comments: true
 * 兼容移动端
 
 ## 赞助
-微信：<img src="http://www.chengfeilong.com/img/skPlayer/wx.jpg">
-支付宝：<img src="http://www.chengfeilong.com/img/skPlayer/zfb.jpg">
+微信：<img src="https://www.chengfeilong.com/img/skPlayer/wx.jpg">
+支付宝：<img src="https://www.chengfeilong.com/img/skPlayer/zfb.jpg">
 
 ## 最后
 感谢[@yangyang](https://github.com/yy584089958)朋友兼同事的支持。

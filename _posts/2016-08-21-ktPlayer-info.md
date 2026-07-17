@@ -13,7 +13,7 @@ a simple HTML5 video player
 一款基于HTML5的web视频播放器  
 
 ## Demo
-[在线预览](http://www.chengfeilong.com/ktPlayer/)  
+[在线预览](https://www.chengfeilong.com/ktPlayer/)  
 预览图：  
 ![demo](http://oc8qda7cw.bkt.clouddn.com/demo.png)  
 

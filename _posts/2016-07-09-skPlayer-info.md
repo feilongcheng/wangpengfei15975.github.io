@@ -22,7 +22,7 @@ new：
 <img src="{{ site.loading }}" data-src="/img/skPlayer/new.png" class="lazy"><br>
 
 ## Demo
-[在线预览](http://www.chengfeilong.com/skPlayer/)  
+[在线预览](https://www.chengfeilong.com/skPlayer/)  
 预览：  
 ![demo](http://o9vplcp9o.bkt.clouddn.com/demo.gif)  
 多曲列表模式预览：  

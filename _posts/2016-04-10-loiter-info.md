@@ -11,7 +11,7 @@ comments: true
 一款基于原生js的组件，灵感来于知乎登陆页背景，比[particles.js](https://github.com/VincentGarreau/particles.js)更加轻量。  
 
 ## demo
-[demo](http://www.chengfeilong.com/loiter.js)  
+[demo](https://www.chengfeilong.com/loiter.js)  
 [github](https://github.com/wangpengfei15975/loiter.js)
 
 ## 使用方式
@@ -27,7 +27,7 @@ comments: true
 ```
 
 效果：  
-<img src="{{ site.loading }}" data-src="http://www.chengfeilong.com/loiter.js/images/default.gif" class="lazy">
+<img src="{{ site.loading }}" data-src="https://www.chengfeilong.com/loiter.js/images/default.gif" class="lazy">
 
 ## 配置对象
 
@@ -61,7 +61,7 @@ comments: true
 ```
 
 配置：  
-<img src="{{ site.loading }}" data-src="http://www.chengfeilong.com/loiter.js/images/config.png" class="lazy">
+<img src="{{ site.loading }}" data-src="https://www.chengfeilong.com/loiter.js/images/config.png" class="lazy">
 
 效果：  
-<img src="{{ site.loading }}" data-src="http://www.chengfeilong.com/loiter.js/images/skyblue.gif" class="lazy">
+<img src="{{ site.loading }}" data-src="https://www.chengfeilong.com/loiter.js/images/skyblue.gif" class="lazy">
