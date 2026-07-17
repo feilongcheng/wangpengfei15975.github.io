@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title:       "Scott's Blog | 一生想做优雅前端"
-description: "Chengfeilong's Blog. A front-end web developer who loves design awesome things. Working for Kingdee in Shenzhen, China."
-keywords: "成飞龙、成启、chengfeilong、wangpengfei15975、Scott's Blog、Front-End Engineer"
+title:       "Felix's Blog"
+description: "Felix's Blog. A frontend developer who loves designing awesome things."
+keywords: "成飞龙、chengfeilong、feilongcheng、Felix's Blog、Front-End Engineer"
 url: http://www.chengfeilong.com # the base hostname & protocol for your site
 
 #
@@ -50,10 +50,10 @@ loading: "http://www.chengfeilong.com/img/loading.gif"
 ####################################
 #
 owner:
-  name: Scott
-  avatar: avatar.jpg
+  name: Felix
+  avatar:
   job: "front-end developer"
-  bio: "一生想做优雅前端."
+  bio: "A frontend developer who loves designing awesome things."
   email: me@chengfeilong.com
   disqus-shortname: Sco7777777 #username
   duoshuo-shortname: chengfeilong #username
@@ -66,7 +66,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: wangpengfei15975 #username
+  github: feilongcheng #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -79,7 +79,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: Sco7777777 #username
+  weibo: #username
   flickr: #username
   codepen: #username
   zhihu: #se7en-zone username
