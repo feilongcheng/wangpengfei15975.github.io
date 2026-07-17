@@ -111,8 +111,8 @@ skPlayer({
 * 兼容移动端
 
 ## Github
-[Github](https://github.com/wangpengfei15975/skPlayer)  
-[![GitHub stars](https://img.shields.io/github/stars/wangpengfei15975/skPlayer.svg?style=social&label=Star)](https://github.com/wangpengfei15975/skPlayer)
+[Github](https://github.com/feilongcheng/skPlayer)  
+[![GitHub stars](https://img.shields.io/github/stars/feilongcheng/skPlayer.svg?style=social&label=Star)](https://github.com/feilongcheng/skPlayer)
 
 ## 捂脸
 竟然有同学想给我捐助，鉴于服务器到期的事情不好意思了，这里列上捐助方式吧，有愿意捐助的朋友就当支持一下歌单拉取服务器。  

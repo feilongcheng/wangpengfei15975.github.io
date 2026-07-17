@@ -12,7 +12,7 @@ comments: true
 
 ## demo
 [demo](https://www.chengfeilong.com/loiter.js)  
-[github](https://github.com/wangpengfei15975/loiter.js)
+[github](https://github.com/feilongcheng/loiter.js)
 
 ## 使用方式
 `html`

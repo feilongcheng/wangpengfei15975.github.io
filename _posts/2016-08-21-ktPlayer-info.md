@@ -18,8 +18,8 @@ a simple HTML5 video player
 ![demo](http://oc8qda7cw.bkt.clouddn.com/demo.png)  
 
 ## Github
-[ktPlayer](https://github.com/wangpengfei15975/ktPlayer/)  
-<iframe frameborder="0" scrolling="0" width="91px" height="20px" src="https://ghbtns.com/github-btn.html?user=wangpengfei15975&repo=ktPlayer&type=star&count=true"></iframe>  
+[ktPlayer](https://github.com/feilongcheng/ktPlayer/)  
+<iframe frameborder="0" scrolling="0" width="91px" height="20px" src="https://ghbtns.com/github-btn.html?user=feilongcheng&repo=ktPlayer&type=star&count=true"></iframe>  
 
 ## 使用方法
 方式1：NPM  

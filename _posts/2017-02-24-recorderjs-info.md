@@ -12,8 +12,8 @@ comments: true
 主要方式是通过封装`getUserMedia()`方法获取音频流，通过`AudioContext`对象处理音频流，同时通过`Worker`对象开启多线程进行mp3编码，最后再利用`Video/Audio API`配合`Blob`文件格式通过`URL`对象生成可播放的url进行试听以及上传需要。  
 ## 传送门
 Demo：[Demo](https://wangpengfei15974.github.io/recorder.js)  
-Github：[Github](https://github.com/wangpengfei15975/recorder.js)  
-<iframe frameborder="0" scrolling="0" width="91px" height="20px" src="https://ghbtns.com/github-btn.html?user=wangpengfei15975&repo=recorder.js&type=star&count=true"></iframe>  
+Github：[Github](https://github.com/feilongcheng/recorder.js)  
+<iframe frameborder="0" scrolling="0" width="91px" height="20px" src="https://ghbtns.com/github-btn.html?user=feilongcheng&repo=recorder.js&type=star&count=true"></iframe>  
 ## 兼容性
 Chrome、FF、Edge、QQ、360(注：目前IE和Safari全版本不兼容)  
 其中Chrome47以上以及QQ浏览器强制要求HTTPS的支持  
