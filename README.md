@@ -18,9 +18,9 @@
 
 * 然后你就可以fork该博客,将该项目克隆到你的本地环境.
 
-   `git clone https://github.com/feilongcheng/wangpengfei15975.github.io.git`
+   `git clone https://github.com/feilongcheng/feilongcheng.github.io.git`
 
-   `cd wangpengfei15975.github.io`
+   `cd feilongcheng.github.io`
 
    `jekyll server`
 
