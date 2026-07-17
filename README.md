@@ -1,6 +1,6 @@
-# Scott's Blog
+# Felix's Blog
 
-**[Scott's Blog](http://www.chengfeilong.com/)** 基于jekyll制作,发布在github pages上.该博客主张简洁清爽的风格，喜欢的朋友可以star或者fork.
+**[Felix's Blog](http://www.chengfeilong.com/)** 基于jekyll制作,发布在github pages上.该博客主张简洁清爽的风格，喜欢的朋友可以star或者fork.
 
 ## 博客具体内容
 
@@ -18,7 +18,7 @@
 
 * 然后你就可以fork该博客,将该项目克隆到你的本地环境.
 
-   `git clone https://github.com/wangpengfei15975/wangpengfei15975.github.io.git`
+   `git clone https://github.com/feilongcheng/wangpengfei15975.github.io.git`
 
    `cd wangpengfei15975.github.io`
 
